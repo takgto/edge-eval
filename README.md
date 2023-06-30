@@ -13,3 +13,4 @@ video/*.webm --> /home/root/Vitis-AI/examples/Vitis-AI-Library/samples/yolov3
 
 ground-truth --> /home/root/Vitis-AI/examples/Vitis-AI-Library/samples/yolov3/mAP/input
 
+dpu_yolov3 --> /usr/share/vitis_ai_library/models/
