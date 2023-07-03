@@ -14,3 +14,7 @@ alias ll='ls -l'
 alias la='ls -A'
 alias la='ls -a'
 alias l='ls -CF'
+
+mkdir -p /home/root/Vitis-AI/examples/VART/yolov3
+ln -s /home/root/Vitis-AI/examples/Vitis-AI-Library/samples/yolov3/video /home/root/Vitis-AI/examples/VART/yolov3/video
+ln -s /usr/share/vitis_ai_library/models/dpu_yolov3/dpu_yolov3.xmodel /home/root/Vitis-AI/examples/VART/dpu_yolov3
