@@ -1,3 +1,4 @@
+# 接続直後にコマンドを入力すると"yes"を求められるので、それをこなした後からこの.shを用いる。
 sshpass -p "root" scp init260.sh root@192.168.1.100:/home/root
 sshpass -p "root" scp aliases root@192.168.1.100:/home/root
 sshpass -p "root" scp -r data root@192.168.1.100:/home/root
